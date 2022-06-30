@@ -1,1 +1,1 @@
-Sitemap: https://ikamonster.github.io/sitemap.xml
+Sitemap: https://apps.ika.monster/sitemap.xml
